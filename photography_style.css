@@ -1,0 +1,82 @@
+body {
+	background-color:#F2F2F2;
+	font-family:Copperplate;
+	font-weight: 90
+}
+
+ul {
+	color: #A4A4A4;
+}
+
+.actions {
+	width: 300px;
+	float: left;
+	text-align: left;
+}
+
+.content {
+	height:400px;
+	width:400px;
+	float:left;
+}
+
+.content iframe {
+	height: 400px;
+	width: 400px;
+}
+
+.container {
+	width: 750px;
+}
+
+.copyright {
+	width: 400px;
+	float: left;
+	text-align: right;
+}
+
+.footer {
+	clear:both;
+	width: 600px;
+}
+
+.main_graphic {
+	color: black;
+	font-size: 24px;
+	font-family:Copperplate;
+	font-style:normal;
+	text-align:center;
+	height:100px;
+	width: 200px;
+	float:left;
+	font-weight: 100
+}
+
+.main_graphic em {
+	color: #B40404;
+	font-size: 24px;
+	font-family:Copperplate;
+	font-style:normal;
+	font-weight: 100
+}
+
+.main_graphic i {
+	color: #585858;
+	font-size: 18px;
+	font-style:normal;
+	font-weight: 100
+}
+
+.menu {
+	height:300px;
+	width:300px;
+	float:left;
+}
+
+.sidebar {
+	height: 400px;
+	width: 300px;
+	float:left;
+}
+
+
