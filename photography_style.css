@@ -8,36 +8,37 @@ ul {
 	color: #A4A4A4;
 }
 
-.actions {
-	width: 300px;
+#actions {
+	width: 50%;
 	float: left;
 	text-align: left;
 }
 
-.content {
-	height:400px;
-	width:400px;
+#content {
+	height: 70%;
+	width: 70%;
 	float:left;
 }
 
-.content iframe {
-	height: 400px;
-	width: 400px;
+#content iframe {
+	height: 90%;
+	width: 90%;
 }
 
-.container {
-	width: 750px;
+#container {
+	width: 100%;
+	height: 100%;
 }
 
-.copyright {
-	width: 400px;
+#copyright {
+	width: 50%;
 	float: left;
 	text-align: right;
 }
 
-.footer {
+#footer {
 	clear:both;
-	width: 600px;
+	width: 100%;
 }
 
 .main_graphic {
@@ -46,10 +47,10 @@ ul {
 	font-family:Copperplate;
 	font-style:normal;
 	text-align:center;
-	height:100px;
-	width: 200px;
+	height:10%;
+	width: 100%;
 	float:left;
-	font-weight: 100
+	font-weight: 100;
 }
 
 .main_graphic em {
@@ -67,15 +68,15 @@ ul {
 	font-weight: 100
 }
 
-.menu {
-	height:300px;
-	width:300px;
+#menu {
+	height:60%;
+	width:100%;
 	float:left;
 }
 
-.sidebar {
-	height: 400px;
-	width: 300px;
+#sidebar {
+	height: 90%;
+	width: 30%;
 	float:left;
 }
 
